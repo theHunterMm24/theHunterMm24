@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding because you can create so much stuff through coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me, email me at frescottg24mm@gmail.com
 
 <!---
 theHunterMm24/theHunterMm24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
